@@ -1,3 +1,0 @@
-# first-repo
-InTheBeginning
-bummm
