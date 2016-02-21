@@ -1,0 +1,1913 @@
+Bobi Mitrev - 11
+Bobi Nikolov - 15
+Ekaterina Stoineva - 0
+Ivan Borisov - 4
+Ivan Djambazov - 0
+Jordan Djambazov - 4
+Jordan Mitrev - 3
+Kiril Djambazov - 2
+Kiril Georgieva - 4
+Kiril Hristov - 3
+Kiril Stoineva - 0
+Krasimir Georgieva - 0
+Liubka Daskalov - 1
+Martin Djambazov - 19
+Martin Hristov - 12
+Martin Mitrev - 1
+Montre Borisov - 18
+Montre Djambazov - 16
+Montre Stoineva - 17
+Nikolay Daskalov - 4
+Nikolay Georgieva - 0
+Pencho Georgieva - 1
+Pencho Mitrev - 1
+Simona Georgieva - 0
+Simona Hristov - 2
+
+	CIVIL CASE
+Jordan Mitrev	Judge
+Age of work : 7
+Number of cases : 3
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 0
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 4
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 0
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 0
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 2
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 1
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 0
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 4
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 1
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 2
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 4
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 11
+Lawyer: Bobi Mitrev asks question to Bobi Georgieva
+Lawyer: Bobi Mitrev asks question to Bobi Georgieva
+Lawyer: Bobi Mitrev asks question to Bobi Georgieva
+Lawyer: Bobi Mitrev asks question to Joro Mitrev
+Lawyer: Bobi Mitrev asks question to Joro Mitrev
+Lawyer: Bobi Mitrev asks question to Hrisi Djambazov
+Lawyer: Bobi Mitrev asks question to Hrisi Djambazov
+Lawyer: Bobi Mitrev asks question to Simona Daskalov
+Lawyer: Bobi Mitrev asks question to Simona Daskalov
+Lawyer: Bobi Mitrev asks question to Pencho Mitrev
+Lawyer: Bobi Mitrev asks question to Pencho Mitrev
+Lawyer: Bobi Mitrev asks question to Hrisi Hristov
+Lawyer: Bobi Mitrev asks question to Hrisi Hristov
+Lawyer: Bobi Mitrev asks question to Roki Mitrev
+Lawyer: Bobi Mitrev asks question to Roki Mitrev
+Lawyer: Bobi Mitrev asks question to Liubka Stoineva
+Lawyer: Bobi Mitrev asks question to Liubka Stoineva
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 15
+Lawyer: Bobi Nikolov asks question to Bobi Georgieva
+Lawyer: Bobi Nikolov asks question to Bobi Georgieva
+Lawyer: Bobi Nikolov asks question to Bobi Georgieva
+Lawyer: Bobi Nikolov asks question to Joro Mitrev
+Lawyer: Bobi Nikolov asks question to Joro Mitrev
+Lawyer: Bobi Nikolov asks question to Hrisi Djambazov
+Lawyer: Bobi Nikolov asks question to Hrisi Djambazov
+Lawyer: Bobi Nikolov asks question to Simona Daskalov
+Lawyer: Bobi Nikolov asks question to Simona Daskalov
+Lawyer: Bobi Nikolov asks question to Pencho Mitrev
+Lawyer: Bobi Nikolov asks question to Pencho Mitrev
+Lawyer: Bobi Nikolov asks question to Hrisi Hristov
+Lawyer: Bobi Nikolov asks question to Hrisi Hristov
+Lawyer: Bobi Nikolov asks question to Roki Mitrev
+Lawyer: Bobi Nikolov asks question to Roki Mitrev
+Lawyer: Bobi Nikolov asks question to Liubka Stoineva
+Lawyer: Bobi Nikolov asks question to Liubka Stoineva
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 16
+Lawyer: Montre Djambazov asks question to Joro Mitrev
+Lawyer: Montre Djambazov asks question to Joro Mitrev
+Lawyer: Montre Djambazov asks question to Joro Mitrev
+Lawyer: Montre Djambazov asks question to Joro Mitrev
+Lawyer: Montre Djambazov asks question to Joro Mitrev
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Pencho Mitrev
+Lawyer: Montre Djambazov asks question to Pencho Mitrev
+Lawyer: Montre Djambazov asks question to Pencho Mitrev
+Lawyer: Montre Djambazov asks question to Pencho Mitrev
+Lawyer: Montre Djambazov asks question to Pencho Mitrev
+Lawyer: Montre Djambazov asks question to Hrisi Hristov
+Lawyer: Montre Djambazov asks question to Hrisi Hristov
+Lawyer: Montre Djambazov asks question to Hrisi Hristov
+Lawyer: Montre Djambazov asks question to Hrisi Hristov
+Lawyer: Montre Djambazov asks question to Hrisi Hristov
+Lawyer: Montre Djambazov asks question to Roki Mitrev
+Lawyer: Montre Djambazov asks question to Roki Mitrev
+Lawyer: Montre Djambazov asks question to Roki Mitrev
+Lawyer: Montre Djambazov asks question to Roki Mitrev
+Lawyer: Montre Djambazov asks question to Roki Mitrev
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 17
+Lawyer: Montre Stoineva asks question to Joro Mitrev
+Lawyer: Montre Stoineva asks question to Joro Mitrev
+Lawyer: Montre Stoineva asks question to Joro Mitrev
+Lawyer: Montre Stoineva asks question to Joro Mitrev
+Lawyer: Montre Stoineva asks question to Joro Mitrev
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Pencho Mitrev
+Lawyer: Montre Stoineva asks question to Pencho Mitrev
+Lawyer: Montre Stoineva asks question to Pencho Mitrev
+Lawyer: Montre Stoineva asks question to Pencho Mitrev
+Lawyer: Montre Stoineva asks question to Pencho Mitrev
+Lawyer: Montre Stoineva asks question to Hrisi Hristov
+Lawyer: Montre Stoineva asks question to Hrisi Hristov
+Lawyer: Montre Stoineva asks question to Hrisi Hristov
+Lawyer: Montre Stoineva asks question to Hrisi Hristov
+Lawyer: Montre Stoineva asks question to Hrisi Hristov
+Lawyer: Montre Stoineva asks question to Roki Mitrev
+Lawyer: Montre Stoineva asks question to Roki Mitrev
+Lawyer: Montre Stoineva asks question to Roki Mitrev
+Lawyer: Montre Stoineva asks question to Roki Mitrev
+Lawyer: Montre Stoineva asks question to Roki Mitrev
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 19
+Lawyer: Martin Djambazov asks question to Joro Mitrev
+Lawyer: Martin Djambazov asks question to Joro Mitrev
+Lawyer: Martin Djambazov asks question to Joro Mitrev
+Lawyer: Martin Djambazov asks question to Joro Mitrev
+Lawyer: Martin Djambazov asks question to Joro Mitrev
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Pencho Mitrev
+Lawyer: Martin Djambazov asks question to Pencho Mitrev
+Lawyer: Martin Djambazov asks question to Pencho Mitrev
+Lawyer: Martin Djambazov asks question to Pencho Mitrev
+Lawyer: Martin Djambazov asks question to Pencho Mitrev
+Lawyer: Martin Djambazov asks question to Hrisi Hristov
+Lawyer: Martin Djambazov asks question to Hrisi Hristov
+Lawyer: Martin Djambazov asks question to Hrisi Hristov
+Lawyer: Martin Djambazov asks question to Hrisi Hristov
+Lawyer: Martin Djambazov asks question to Hrisi Hristov
+Lawyer: Martin Djambazov asks question to Roki Mitrev
+Lawyer: Martin Djambazov asks question to Roki Mitrev
+Lawyer: Martin Djambazov asks question to Roki Mitrev
+Lawyer: Martin Djambazov asks question to Roki Mitrev
+Lawyer: Martin Djambazov asks question to Roki Mitrev
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Simona Georgieva voted with guilty !
+Kiril Georgieva voted with guilty !
+Ivan Djambazov voted with guilty !
+Ekaterina Stoineva voted with guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with no guilty !
+Ivan Borisov voted with guilty !
+	 GUILTY !!!
+Jordan Mitrev convict 38 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Stoineva	Judge
+Age of work : 11
+Number of cases : 0
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 1
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 5
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 1
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 1
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 3
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 2
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 1
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 5
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 2
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 3
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 5
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 12
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Krasimir Mitrev
+Lawyer: Bobi Mitrev asks question to Krasimir Mitrev
+Lawyer: Bobi Mitrev asks question to Rikardo Mitrev
+Lawyer: Bobi Mitrev asks question to Rikardo Mitrev
+Lawyer: Bobi Mitrev asks question to Roki Nikolov
+Lawyer: Bobi Mitrev asks question to Roki Nikolov
+Lawyer: Bobi Mitrev asks question to Sliven Djambazov
+Lawyer: Bobi Mitrev asks question to Sliven Djambazov
+Lawyer: Bobi Mitrev asks question to Kiril Stoineva
+Lawyer: Bobi Mitrev asks question to Kiril Stoineva
+Lawyer: Bobi Mitrev asks question to Krasimir Hristov
+Lawyer: Bobi Mitrev asks question to Krasimir Hristov
+Lawyer: Bobi Mitrev asks question to Jordan Djambazov
+Lawyer: Bobi Mitrev asks question to Jordan Djambazov
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 16
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Krasimir Mitrev
+Lawyer: Bobi Nikolov asks question to Krasimir Mitrev
+Lawyer: Bobi Nikolov asks question to Rikardo Mitrev
+Lawyer: Bobi Nikolov asks question to Rikardo Mitrev
+Lawyer: Bobi Nikolov asks question to Roki Nikolov
+Lawyer: Bobi Nikolov asks question to Roki Nikolov
+Lawyer: Bobi Nikolov asks question to Sliven Djambazov
+Lawyer: Bobi Nikolov asks question to Sliven Djambazov
+Lawyer: Bobi Nikolov asks question to Kiril Stoineva
+Lawyer: Bobi Nikolov asks question to Kiril Stoineva
+Lawyer: Bobi Nikolov asks question to Krasimir Hristov
+Lawyer: Bobi Nikolov asks question to Krasimir Hristov
+Lawyer: Bobi Nikolov asks question to Jordan Djambazov
+Lawyer: Bobi Nikolov asks question to Jordan Djambazov
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 17
+Lawyer: Montre Djambazov asks question to Krasimir Mitrev
+Lawyer: Montre Djambazov asks question to Krasimir Mitrev
+Lawyer: Montre Djambazov asks question to Krasimir Mitrev
+Lawyer: Montre Djambazov asks question to Krasimir Mitrev
+Lawyer: Montre Djambazov asks question to Krasimir Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Mitrev
+Lawyer: Montre Djambazov asks question to Roki Nikolov
+Lawyer: Montre Djambazov asks question to Roki Nikolov
+Lawyer: Montre Djambazov asks question to Roki Nikolov
+Lawyer: Montre Djambazov asks question to Roki Nikolov
+Lawyer: Montre Djambazov asks question to Roki Nikolov
+Lawyer: Montre Djambazov asks question to Sliven Djambazov
+Lawyer: Montre Djambazov asks question to Sliven Djambazov
+Lawyer: Montre Djambazov asks question to Sliven Djambazov
+Lawyer: Montre Djambazov asks question to Sliven Djambazov
+Lawyer: Montre Djambazov asks question to Sliven Djambazov
+Lawyer: Montre Djambazov asks question to Kiril Stoineva
+Lawyer: Montre Djambazov asks question to Kiril Stoineva
+Lawyer: Montre Djambazov asks question to Kiril Stoineva
+Lawyer: Montre Djambazov asks question to Kiril Stoineva
+Lawyer: Montre Djambazov asks question to Kiril Stoineva
+Lawyer: Montre Djambazov asks question to Krasimir Hristov
+Lawyer: Montre Djambazov asks question to Krasimir Hristov
+Lawyer: Montre Djambazov asks question to Krasimir Hristov
+Lawyer: Montre Djambazov asks question to Krasimir Hristov
+Lawyer: Montre Djambazov asks question to Krasimir Hristov
+Lawyer: Montre Djambazov asks question to Jordan Djambazov
+Lawyer: Montre Djambazov asks question to Jordan Djambazov
+Lawyer: Montre Djambazov asks question to Jordan Djambazov
+Lawyer: Montre Djambazov asks question to Jordan Djambazov
+Lawyer: Montre Djambazov asks question to Jordan Djambazov
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 18
+Lawyer: Montre Stoineva asks question to Krasimir Mitrev
+Lawyer: Montre Stoineva asks question to Krasimir Mitrev
+Lawyer: Montre Stoineva asks question to Krasimir Mitrev
+Lawyer: Montre Stoineva asks question to Krasimir Mitrev
+Lawyer: Montre Stoineva asks question to Krasimir Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Mitrev
+Lawyer: Montre Stoineva asks question to Roki Nikolov
+Lawyer: Montre Stoineva asks question to Roki Nikolov
+Lawyer: Montre Stoineva asks question to Roki Nikolov
+Lawyer: Montre Stoineva asks question to Roki Nikolov
+Lawyer: Montre Stoineva asks question to Roki Nikolov
+Lawyer: Montre Stoineva asks question to Sliven Djambazov
+Lawyer: Montre Stoineva asks question to Sliven Djambazov
+Lawyer: Montre Stoineva asks question to Sliven Djambazov
+Lawyer: Montre Stoineva asks question to Sliven Djambazov
+Lawyer: Montre Stoineva asks question to Sliven Djambazov
+Lawyer: Montre Stoineva asks question to Kiril Stoineva
+Lawyer: Montre Stoineva asks question to Kiril Stoineva
+Lawyer: Montre Stoineva asks question to Kiril Stoineva
+Lawyer: Montre Stoineva asks question to Kiril Stoineva
+Lawyer: Montre Stoineva asks question to Kiril Stoineva
+Lawyer: Montre Stoineva asks question to Krasimir Hristov
+Lawyer: Montre Stoineva asks question to Krasimir Hristov
+Lawyer: Montre Stoineva asks question to Krasimir Hristov
+Lawyer: Montre Stoineva asks question to Krasimir Hristov
+Lawyer: Montre Stoineva asks question to Krasimir Hristov
+Lawyer: Montre Stoineva asks question to Jordan Djambazov
+Lawyer: Montre Stoineva asks question to Jordan Djambazov
+Lawyer: Montre Stoineva asks question to Jordan Djambazov
+Lawyer: Montre Stoineva asks question to Jordan Djambazov
+Lawyer: Montre Stoineva asks question to Jordan Djambazov
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 20
+Lawyer: Martin Djambazov asks question to Krasimir Mitrev
+Lawyer: Martin Djambazov asks question to Krasimir Mitrev
+Lawyer: Martin Djambazov asks question to Krasimir Mitrev
+Lawyer: Martin Djambazov asks question to Krasimir Mitrev
+Lawyer: Martin Djambazov asks question to Krasimir Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Mitrev
+Lawyer: Martin Djambazov asks question to Roki Nikolov
+Lawyer: Martin Djambazov asks question to Roki Nikolov
+Lawyer: Martin Djambazov asks question to Roki Nikolov
+Lawyer: Martin Djambazov asks question to Roki Nikolov
+Lawyer: Martin Djambazov asks question to Roki Nikolov
+Lawyer: Martin Djambazov asks question to Sliven Djambazov
+Lawyer: Martin Djambazov asks question to Sliven Djambazov
+Lawyer: Martin Djambazov asks question to Sliven Djambazov
+Lawyer: Martin Djambazov asks question to Sliven Djambazov
+Lawyer: Martin Djambazov asks question to Sliven Djambazov
+Lawyer: Martin Djambazov asks question to Kiril Stoineva
+Lawyer: Martin Djambazov asks question to Kiril Stoineva
+Lawyer: Martin Djambazov asks question to Kiril Stoineva
+Lawyer: Martin Djambazov asks question to Kiril Stoineva
+Lawyer: Martin Djambazov asks question to Kiril Stoineva
+Lawyer: Martin Djambazov asks question to Krasimir Hristov
+Lawyer: Martin Djambazov asks question to Krasimir Hristov
+Lawyer: Martin Djambazov asks question to Krasimir Hristov
+Lawyer: Martin Djambazov asks question to Krasimir Hristov
+Lawyer: Martin Djambazov asks question to Krasimir Hristov
+Lawyer: Martin Djambazov asks question to Jordan Djambazov
+Lawyer: Martin Djambazov asks question to Jordan Djambazov
+Lawyer: Martin Djambazov asks question to Jordan Djambazov
+Lawyer: Martin Djambazov asks question to Jordan Djambazov
+Lawyer: Martin Djambazov asks question to Jordan Djambazov
+Simona Georgieva voted with guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with no guilty !
+Ekaterina Stoineva voted with guilty !
+Kiril Djambazov voted with no guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Kiril Stoineva convict 24 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Hristov	Judge
+Age of work : 7
+Number of cases : 3
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 2
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 6
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 2
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 2
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 4
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 3
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 2
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 6
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 3
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 4
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 6
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 13
+Lawyer: Bobi Mitrev asks question to Kiril Georgieva
+Lawyer: Bobi Mitrev asks question to Kiril Georgieva
+Lawyer: Bobi Mitrev asks question to Kiril Georgieva
+Lawyer: Bobi Mitrev asks question to Bobi Djambazov
+Lawyer: Bobi Mitrev asks question to Bobi Djambazov
+Lawyer: Bobi Mitrev asks question to Hrisi Borisov
+Lawyer: Bobi Mitrev asks question to Hrisi Borisov
+Lawyer: Bobi Mitrev asks question to Liubka Stoineva
+Lawyer: Bobi Mitrev asks question to Liubka Stoineva
+Lawyer: Bobi Mitrev asks question to Simona Daskalov
+Lawyer: Bobi Mitrev asks question to Simona Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Borisov
+Lawyer: Bobi Mitrev asks question to Joro Borisov
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Joro Stoineva
+Lawyer: Bobi Mitrev asks question to Joro Stoineva
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 17
+Lawyer: Bobi Nikolov asks question to Kiril Georgieva
+Lawyer: Bobi Nikolov asks question to Kiril Georgieva
+Lawyer: Bobi Nikolov asks question to Kiril Georgieva
+Lawyer: Bobi Nikolov asks question to Bobi Djambazov
+Lawyer: Bobi Nikolov asks question to Bobi Djambazov
+Lawyer: Bobi Nikolov asks question to Hrisi Borisov
+Lawyer: Bobi Nikolov asks question to Hrisi Borisov
+Lawyer: Bobi Nikolov asks question to Liubka Stoineva
+Lawyer: Bobi Nikolov asks question to Liubka Stoineva
+Lawyer: Bobi Nikolov asks question to Simona Daskalov
+Lawyer: Bobi Nikolov asks question to Simona Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Borisov
+Lawyer: Bobi Nikolov asks question to Joro Borisov
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Joro Stoineva
+Lawyer: Bobi Nikolov asks question to Joro Stoineva
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 18
+Lawyer: Montre Djambazov asks question to Bobi Djambazov
+Lawyer: Montre Djambazov asks question to Bobi Djambazov
+Lawyer: Montre Djambazov asks question to Bobi Djambazov
+Lawyer: Montre Djambazov asks question to Bobi Djambazov
+Lawyer: Montre Djambazov asks question to Bobi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Borisov
+Lawyer: Montre Djambazov asks question to Hrisi Borisov
+Lawyer: Montre Djambazov asks question to Hrisi Borisov
+Lawyer: Montre Djambazov asks question to Hrisi Borisov
+Lawyer: Montre Djambazov asks question to Hrisi Borisov
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Liubka Stoineva
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Simona Daskalov
+Lawyer: Montre Djambazov asks question to Joro Borisov
+Lawyer: Montre Djambazov asks question to Joro Borisov
+Lawyer: Montre Djambazov asks question to Joro Borisov
+Lawyer: Montre Djambazov asks question to Joro Borisov
+Lawyer: Montre Djambazov asks question to Joro Borisov
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Joro Stoineva
+Lawyer: Montre Djambazov asks question to Joro Stoineva
+Lawyer: Montre Djambazov asks question to Joro Stoineva
+Lawyer: Montre Djambazov asks question to Joro Stoineva
+Lawyer: Montre Djambazov asks question to Joro Stoineva
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 19
+Lawyer: Montre Stoineva asks question to Bobi Djambazov
+Lawyer: Montre Stoineva asks question to Bobi Djambazov
+Lawyer: Montre Stoineva asks question to Bobi Djambazov
+Lawyer: Montre Stoineva asks question to Bobi Djambazov
+Lawyer: Montre Stoineva asks question to Bobi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Borisov
+Lawyer: Montre Stoineva asks question to Hrisi Borisov
+Lawyer: Montre Stoineva asks question to Hrisi Borisov
+Lawyer: Montre Stoineva asks question to Hrisi Borisov
+Lawyer: Montre Stoineva asks question to Hrisi Borisov
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Liubka Stoineva
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Simona Daskalov
+Lawyer: Montre Stoineva asks question to Joro Borisov
+Lawyer: Montre Stoineva asks question to Joro Borisov
+Lawyer: Montre Stoineva asks question to Joro Borisov
+Lawyer: Montre Stoineva asks question to Joro Borisov
+Lawyer: Montre Stoineva asks question to Joro Borisov
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Joro Stoineva
+Lawyer: Montre Stoineva asks question to Joro Stoineva
+Lawyer: Montre Stoineva asks question to Joro Stoineva
+Lawyer: Montre Stoineva asks question to Joro Stoineva
+Lawyer: Montre Stoineva asks question to Joro Stoineva
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 21
+Lawyer: Martin Djambazov asks question to Bobi Djambazov
+Lawyer: Martin Djambazov asks question to Bobi Djambazov
+Lawyer: Martin Djambazov asks question to Bobi Djambazov
+Lawyer: Martin Djambazov asks question to Bobi Djambazov
+Lawyer: Martin Djambazov asks question to Bobi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Borisov
+Lawyer: Martin Djambazov asks question to Hrisi Borisov
+Lawyer: Martin Djambazov asks question to Hrisi Borisov
+Lawyer: Martin Djambazov asks question to Hrisi Borisov
+Lawyer: Martin Djambazov asks question to Hrisi Borisov
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Liubka Stoineva
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Simona Daskalov
+Lawyer: Martin Djambazov asks question to Joro Borisov
+Lawyer: Martin Djambazov asks question to Joro Borisov
+Lawyer: Martin Djambazov asks question to Joro Borisov
+Lawyer: Martin Djambazov asks question to Joro Borisov
+Lawyer: Martin Djambazov asks question to Joro Borisov
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Joro Stoineva
+Lawyer: Martin Djambazov asks question to Joro Stoineva
+Lawyer: Martin Djambazov asks question to Joro Stoineva
+Lawyer: Martin Djambazov asks question to Joro Stoineva
+Lawyer: Martin Djambazov asks question to Joro Stoineva
+Simona Georgieva voted with guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with guilty !
+Ekaterina Stoineva voted with no guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with no guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Kiril Hristov convict 7 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Stoineva	Judge
+Age of work : 11
+Number of cases : 1
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 3
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 7
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 3
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 3
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 5
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 4
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 3
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 7
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 4
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 5
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 7
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 14
+Lawyer: Bobi Mitrev asks question to Krasimir Mitrev
+Lawyer: Bobi Mitrev asks question to Krasimir Mitrev
+Lawyer: Bobi Mitrev asks question to Krasimir Mitrev
+Lawyer: Bobi Mitrev asks question to Stefan Nikolov
+Lawyer: Bobi Mitrev asks question to Stefan Nikolov
+Lawyer: Bobi Mitrev asks question to Krasimir Borisov
+Lawyer: Bobi Mitrev asks question to Krasimir Borisov
+Lawyer: Bobi Mitrev asks question to Sliven Nikolov
+Lawyer: Bobi Mitrev asks question to Sliven Nikolov
+Lawyer: Bobi Mitrev asks question to Ekaterina Hristov
+Lawyer: Bobi Mitrev asks question to Ekaterina Hristov
+Lawyer: Bobi Mitrev asks question to Ivan Nikolov
+Lawyer: Bobi Mitrev asks question to Ivan Nikolov
+Lawyer: Bobi Mitrev asks question to Rikardo Georgieva
+Lawyer: Bobi Mitrev asks question to Rikardo Georgieva
+Lawyer: Bobi Mitrev asks question to Roki Djambazov
+Lawyer: Bobi Mitrev asks question to Roki Djambazov
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 18
+Lawyer: Bobi Nikolov asks question to Krasimir Mitrev
+Lawyer: Bobi Nikolov asks question to Krasimir Mitrev
+Lawyer: Bobi Nikolov asks question to Krasimir Mitrev
+Lawyer: Bobi Nikolov asks question to Stefan Nikolov
+Lawyer: Bobi Nikolov asks question to Stefan Nikolov
+Lawyer: Bobi Nikolov asks question to Krasimir Borisov
+Lawyer: Bobi Nikolov asks question to Krasimir Borisov
+Lawyer: Bobi Nikolov asks question to Sliven Nikolov
+Lawyer: Bobi Nikolov asks question to Sliven Nikolov
+Lawyer: Bobi Nikolov asks question to Ekaterina Hristov
+Lawyer: Bobi Nikolov asks question to Ekaterina Hristov
+Lawyer: Bobi Nikolov asks question to Ivan Nikolov
+Lawyer: Bobi Nikolov asks question to Ivan Nikolov
+Lawyer: Bobi Nikolov asks question to Rikardo Georgieva
+Lawyer: Bobi Nikolov asks question to Rikardo Georgieva
+Lawyer: Bobi Nikolov asks question to Roki Djambazov
+Lawyer: Bobi Nikolov asks question to Roki Djambazov
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 19
+Lawyer: Montre Djambazov asks question to Stefan Nikolov
+Lawyer: Montre Djambazov asks question to Stefan Nikolov
+Lawyer: Montre Djambazov asks question to Stefan Nikolov
+Lawyer: Montre Djambazov asks question to Stefan Nikolov
+Lawyer: Montre Djambazov asks question to Stefan Nikolov
+Lawyer: Montre Djambazov asks question to Krasimir Borisov
+Lawyer: Montre Djambazov asks question to Krasimir Borisov
+Lawyer: Montre Djambazov asks question to Krasimir Borisov
+Lawyer: Montre Djambazov asks question to Krasimir Borisov
+Lawyer: Montre Djambazov asks question to Krasimir Borisov
+Lawyer: Montre Djambazov asks question to Sliven Nikolov
+Lawyer: Montre Djambazov asks question to Sliven Nikolov
+Lawyer: Montre Djambazov asks question to Sliven Nikolov
+Lawyer: Montre Djambazov asks question to Sliven Nikolov
+Lawyer: Montre Djambazov asks question to Sliven Nikolov
+Lawyer: Montre Djambazov asks question to Ekaterina Hristov
+Lawyer: Montre Djambazov asks question to Ekaterina Hristov
+Lawyer: Montre Djambazov asks question to Ekaterina Hristov
+Lawyer: Montre Djambazov asks question to Ekaterina Hristov
+Lawyer: Montre Djambazov asks question to Ekaterina Hristov
+Lawyer: Montre Djambazov asks question to Ivan Nikolov
+Lawyer: Montre Djambazov asks question to Ivan Nikolov
+Lawyer: Montre Djambazov asks question to Ivan Nikolov
+Lawyer: Montre Djambazov asks question to Ivan Nikolov
+Lawyer: Montre Djambazov asks question to Ivan Nikolov
+Lawyer: Montre Djambazov asks question to Rikardo Georgieva
+Lawyer: Montre Djambazov asks question to Rikardo Georgieva
+Lawyer: Montre Djambazov asks question to Rikardo Georgieva
+Lawyer: Montre Djambazov asks question to Rikardo Georgieva
+Lawyer: Montre Djambazov asks question to Rikardo Georgieva
+Lawyer: Montre Djambazov asks question to Roki Djambazov
+Lawyer: Montre Djambazov asks question to Roki Djambazov
+Lawyer: Montre Djambazov asks question to Roki Djambazov
+Lawyer: Montre Djambazov asks question to Roki Djambazov
+Lawyer: Montre Djambazov asks question to Roki Djambazov
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 20
+Lawyer: Montre Stoineva asks question to Stefan Nikolov
+Lawyer: Montre Stoineva asks question to Stefan Nikolov
+Lawyer: Montre Stoineva asks question to Stefan Nikolov
+Lawyer: Montre Stoineva asks question to Stefan Nikolov
+Lawyer: Montre Stoineva asks question to Stefan Nikolov
+Lawyer: Montre Stoineva asks question to Krasimir Borisov
+Lawyer: Montre Stoineva asks question to Krasimir Borisov
+Lawyer: Montre Stoineva asks question to Krasimir Borisov
+Lawyer: Montre Stoineva asks question to Krasimir Borisov
+Lawyer: Montre Stoineva asks question to Krasimir Borisov
+Lawyer: Montre Stoineva asks question to Sliven Nikolov
+Lawyer: Montre Stoineva asks question to Sliven Nikolov
+Lawyer: Montre Stoineva asks question to Sliven Nikolov
+Lawyer: Montre Stoineva asks question to Sliven Nikolov
+Lawyer: Montre Stoineva asks question to Sliven Nikolov
+Lawyer: Montre Stoineva asks question to Ekaterina Hristov
+Lawyer: Montre Stoineva asks question to Ekaterina Hristov
+Lawyer: Montre Stoineva asks question to Ekaterina Hristov
+Lawyer: Montre Stoineva asks question to Ekaterina Hristov
+Lawyer: Montre Stoineva asks question to Ekaterina Hristov
+Lawyer: Montre Stoineva asks question to Ivan Nikolov
+Lawyer: Montre Stoineva asks question to Ivan Nikolov
+Lawyer: Montre Stoineva asks question to Ivan Nikolov
+Lawyer: Montre Stoineva asks question to Ivan Nikolov
+Lawyer: Montre Stoineva asks question to Ivan Nikolov
+Lawyer: Montre Stoineva asks question to Rikardo Georgieva
+Lawyer: Montre Stoineva asks question to Rikardo Georgieva
+Lawyer: Montre Stoineva asks question to Rikardo Georgieva
+Lawyer: Montre Stoineva asks question to Rikardo Georgieva
+Lawyer: Montre Stoineva asks question to Rikardo Georgieva
+Lawyer: Montre Stoineva asks question to Roki Djambazov
+Lawyer: Montre Stoineva asks question to Roki Djambazov
+Lawyer: Montre Stoineva asks question to Roki Djambazov
+Lawyer: Montre Stoineva asks question to Roki Djambazov
+Lawyer: Montre Stoineva asks question to Roki Djambazov
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 22
+Lawyer: Martin Djambazov asks question to Stefan Nikolov
+Lawyer: Martin Djambazov asks question to Stefan Nikolov
+Lawyer: Martin Djambazov asks question to Stefan Nikolov
+Lawyer: Martin Djambazov asks question to Stefan Nikolov
+Lawyer: Martin Djambazov asks question to Stefan Nikolov
+Lawyer: Martin Djambazov asks question to Krasimir Borisov
+Lawyer: Martin Djambazov asks question to Krasimir Borisov
+Lawyer: Martin Djambazov asks question to Krasimir Borisov
+Lawyer: Martin Djambazov asks question to Krasimir Borisov
+Lawyer: Martin Djambazov asks question to Krasimir Borisov
+Lawyer: Martin Djambazov asks question to Sliven Nikolov
+Lawyer: Martin Djambazov asks question to Sliven Nikolov
+Lawyer: Martin Djambazov asks question to Sliven Nikolov
+Lawyer: Martin Djambazov asks question to Sliven Nikolov
+Lawyer: Martin Djambazov asks question to Sliven Nikolov
+Lawyer: Martin Djambazov asks question to Ekaterina Hristov
+Lawyer: Martin Djambazov asks question to Ekaterina Hristov
+Lawyer: Martin Djambazov asks question to Ekaterina Hristov
+Lawyer: Martin Djambazov asks question to Ekaterina Hristov
+Lawyer: Martin Djambazov asks question to Ekaterina Hristov
+Lawyer: Martin Djambazov asks question to Ivan Nikolov
+Lawyer: Martin Djambazov asks question to Ivan Nikolov
+Lawyer: Martin Djambazov asks question to Ivan Nikolov
+Lawyer: Martin Djambazov asks question to Ivan Nikolov
+Lawyer: Martin Djambazov asks question to Ivan Nikolov
+Lawyer: Martin Djambazov asks question to Rikardo Georgieva
+Lawyer: Martin Djambazov asks question to Rikardo Georgieva
+Lawyer: Martin Djambazov asks question to Rikardo Georgieva
+Lawyer: Martin Djambazov asks question to Rikardo Georgieva
+Lawyer: Martin Djambazov asks question to Rikardo Georgieva
+Lawyer: Martin Djambazov asks question to Roki Djambazov
+Lawyer: Martin Djambazov asks question to Roki Djambazov
+Lawyer: Martin Djambazov asks question to Roki Djambazov
+Lawyer: Martin Djambazov asks question to Roki Djambazov
+Lawyer: Martin Djambazov asks question to Roki Djambazov
+Simona Georgieva voted with no guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with guilty !
+Ekaterina Stoineva voted with guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with no guilty !
+Krasimir Georgieva voted with no guilty !
+Nikolay Daskalov voted with guilty !
+Martin Mitrev voted with no guilty !
+Simona Hristov voted with guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Kiril Stoineva convict 18 years of prison !!!
+
+
+
+	CIVIL CASE
+Jordan Mitrev	Judge
+Age of work : 7
+Number of cases : 4
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 4
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 8
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 4
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 4
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 6
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 5
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 4
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 8
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 5
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 6
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 8
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 15
+Lawyer: Bobi Mitrev asks question to Liubka Borisov
+Lawyer: Bobi Mitrev asks question to Liubka Borisov
+Lawyer: Bobi Mitrev asks question to Liubka Borisov
+Lawyer: Bobi Mitrev asks question to Jordan Borisov
+Lawyer: Bobi Mitrev asks question to Jordan Borisov
+Lawyer: Bobi Mitrev asks question to Martin Mitrev
+Lawyer: Bobi Mitrev asks question to Martin Mitrev
+Lawyer: Bobi Mitrev asks question to Jordan Hristov
+Lawyer: Bobi Mitrev asks question to Jordan Hristov
+Lawyer: Bobi Mitrev asks question to Martin Daskalov
+Lawyer: Bobi Mitrev asks question to Martin Daskalov
+Lawyer: Bobi Mitrev asks question to Nikolay Djambazov
+Lawyer: Bobi Mitrev asks question to Nikolay Djambazov
+Lawyer: Bobi Mitrev asks question to Bobi Stoineva
+Lawyer: Bobi Mitrev asks question to Bobi Stoineva
+Lawyer: Bobi Mitrev asks question to Bobi Georgieva
+Lawyer: Bobi Mitrev asks question to Bobi Georgieva
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 19
+Lawyer: Bobi Nikolov asks question to Liubka Borisov
+Lawyer: Bobi Nikolov asks question to Liubka Borisov
+Lawyer: Bobi Nikolov asks question to Liubka Borisov
+Lawyer: Bobi Nikolov asks question to Jordan Borisov
+Lawyer: Bobi Nikolov asks question to Jordan Borisov
+Lawyer: Bobi Nikolov asks question to Martin Mitrev
+Lawyer: Bobi Nikolov asks question to Martin Mitrev
+Lawyer: Bobi Nikolov asks question to Jordan Hristov
+Lawyer: Bobi Nikolov asks question to Jordan Hristov
+Lawyer: Bobi Nikolov asks question to Martin Daskalov
+Lawyer: Bobi Nikolov asks question to Martin Daskalov
+Lawyer: Bobi Nikolov asks question to Nikolay Djambazov
+Lawyer: Bobi Nikolov asks question to Nikolay Djambazov
+Lawyer: Bobi Nikolov asks question to Bobi Stoineva
+Lawyer: Bobi Nikolov asks question to Bobi Stoineva
+Lawyer: Bobi Nikolov asks question to Bobi Georgieva
+Lawyer: Bobi Nikolov asks question to Bobi Georgieva
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 20
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Martin Mitrev
+Lawyer: Montre Djambazov asks question to Martin Mitrev
+Lawyer: Montre Djambazov asks question to Martin Mitrev
+Lawyer: Montre Djambazov asks question to Martin Mitrev
+Lawyer: Montre Djambazov asks question to Martin Mitrev
+Lawyer: Montre Djambazov asks question to Jordan Hristov
+Lawyer: Montre Djambazov asks question to Jordan Hristov
+Lawyer: Montre Djambazov asks question to Jordan Hristov
+Lawyer: Montre Djambazov asks question to Jordan Hristov
+Lawyer: Montre Djambazov asks question to Jordan Hristov
+Lawyer: Montre Djambazov asks question to Martin Daskalov
+Lawyer: Montre Djambazov asks question to Martin Daskalov
+Lawyer: Montre Djambazov asks question to Martin Daskalov
+Lawyer: Montre Djambazov asks question to Martin Daskalov
+Lawyer: Montre Djambazov asks question to Martin Daskalov
+Lawyer: Montre Djambazov asks question to Nikolay Djambazov
+Lawyer: Montre Djambazov asks question to Nikolay Djambazov
+Lawyer: Montre Djambazov asks question to Nikolay Djambazov
+Lawyer: Montre Djambazov asks question to Nikolay Djambazov
+Lawyer: Montre Djambazov asks question to Nikolay Djambazov
+Lawyer: Montre Djambazov asks question to Bobi Stoineva
+Lawyer: Montre Djambazov asks question to Bobi Stoineva
+Lawyer: Montre Djambazov asks question to Bobi Stoineva
+Lawyer: Montre Djambazov asks question to Bobi Stoineva
+Lawyer: Montre Djambazov asks question to Bobi Stoineva
+Lawyer: Montre Djambazov asks question to Bobi Georgieva
+Lawyer: Montre Djambazov asks question to Bobi Georgieva
+Lawyer: Montre Djambazov asks question to Bobi Georgieva
+Lawyer: Montre Djambazov asks question to Bobi Georgieva
+Lawyer: Montre Djambazov asks question to Bobi Georgieva
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 21
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Martin Mitrev
+Lawyer: Montre Stoineva asks question to Martin Mitrev
+Lawyer: Montre Stoineva asks question to Martin Mitrev
+Lawyer: Montre Stoineva asks question to Martin Mitrev
+Lawyer: Montre Stoineva asks question to Martin Mitrev
+Lawyer: Montre Stoineva asks question to Jordan Hristov
+Lawyer: Montre Stoineva asks question to Jordan Hristov
+Lawyer: Montre Stoineva asks question to Jordan Hristov
+Lawyer: Montre Stoineva asks question to Jordan Hristov
+Lawyer: Montre Stoineva asks question to Jordan Hristov
+Lawyer: Montre Stoineva asks question to Martin Daskalov
+Lawyer: Montre Stoineva asks question to Martin Daskalov
+Lawyer: Montre Stoineva asks question to Martin Daskalov
+Lawyer: Montre Stoineva asks question to Martin Daskalov
+Lawyer: Montre Stoineva asks question to Martin Daskalov
+Lawyer: Montre Stoineva asks question to Nikolay Djambazov
+Lawyer: Montre Stoineva asks question to Nikolay Djambazov
+Lawyer: Montre Stoineva asks question to Nikolay Djambazov
+Lawyer: Montre Stoineva asks question to Nikolay Djambazov
+Lawyer: Montre Stoineva asks question to Nikolay Djambazov
+Lawyer: Montre Stoineva asks question to Bobi Stoineva
+Lawyer: Montre Stoineva asks question to Bobi Stoineva
+Lawyer: Montre Stoineva asks question to Bobi Stoineva
+Lawyer: Montre Stoineva asks question to Bobi Stoineva
+Lawyer: Montre Stoineva asks question to Bobi Stoineva
+Lawyer: Montre Stoineva asks question to Bobi Georgieva
+Lawyer: Montre Stoineva asks question to Bobi Georgieva
+Lawyer: Montre Stoineva asks question to Bobi Georgieva
+Lawyer: Montre Stoineva asks question to Bobi Georgieva
+Lawyer: Montre Stoineva asks question to Bobi Georgieva
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 23
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Martin Mitrev
+Lawyer: Martin Djambazov asks question to Martin Mitrev
+Lawyer: Martin Djambazov asks question to Martin Mitrev
+Lawyer: Martin Djambazov asks question to Martin Mitrev
+Lawyer: Martin Djambazov asks question to Martin Mitrev
+Lawyer: Martin Djambazov asks question to Jordan Hristov
+Lawyer: Martin Djambazov asks question to Jordan Hristov
+Lawyer: Martin Djambazov asks question to Jordan Hristov
+Lawyer: Martin Djambazov asks question to Jordan Hristov
+Lawyer: Martin Djambazov asks question to Jordan Hristov
+Lawyer: Martin Djambazov asks question to Martin Daskalov
+Lawyer: Martin Djambazov asks question to Martin Daskalov
+Lawyer: Martin Djambazov asks question to Martin Daskalov
+Lawyer: Martin Djambazov asks question to Martin Daskalov
+Lawyer: Martin Djambazov asks question to Martin Daskalov
+Lawyer: Martin Djambazov asks question to Nikolay Djambazov
+Lawyer: Martin Djambazov asks question to Nikolay Djambazov
+Lawyer: Martin Djambazov asks question to Nikolay Djambazov
+Lawyer: Martin Djambazov asks question to Nikolay Djambazov
+Lawyer: Martin Djambazov asks question to Nikolay Djambazov
+Lawyer: Martin Djambazov asks question to Bobi Stoineva
+Lawyer: Martin Djambazov asks question to Bobi Stoineva
+Lawyer: Martin Djambazov asks question to Bobi Stoineva
+Lawyer: Martin Djambazov asks question to Bobi Stoineva
+Lawyer: Martin Djambazov asks question to Bobi Stoineva
+Lawyer: Martin Djambazov asks question to Bobi Georgieva
+Lawyer: Martin Djambazov asks question to Bobi Georgieva
+Lawyer: Martin Djambazov asks question to Bobi Georgieva
+Lawyer: Martin Djambazov asks question to Bobi Georgieva
+Lawyer: Martin Djambazov asks question to Bobi Georgieva
+Simona Georgieva voted with guilty !
+Kiril Georgieva voted with guilty !
+Ivan Djambazov voted with no guilty !
+Ekaterina Stoineva voted with no guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with no guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Jordan Mitrev convict 10 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Hristov	Judge
+Age of work : 7
+Number of cases : 4
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 5
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 9
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 5
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 5
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 7
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 6
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 5
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 9
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 6
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 7
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 9
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 16
+Lawyer: Bobi Mitrev asks question to Ivan Daskalov
+Lawyer: Bobi Mitrev asks question to Ivan Daskalov
+Lawyer: Bobi Mitrev asks question to Ivan Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Lawyer: Bobi Mitrev asks question to Hrisi Djambazov
+Lawyer: Bobi Mitrev asks question to Hrisi Djambazov
+Lawyer: Bobi Mitrev asks question to Stefan Borisov
+Lawyer: Bobi Mitrev asks question to Stefan Borisov
+Lawyer: Bobi Mitrev asks question to Martin Nikolov
+Lawyer: Bobi Mitrev asks question to Martin Nikolov
+Lawyer: Bobi Mitrev asks question to Nikolay Nikolov
+Lawyer: Bobi Mitrev asks question to Nikolay Nikolov
+Lawyer: Bobi Mitrev asks question to Krasimir Georgieva
+Lawyer: Bobi Mitrev asks question to Krasimir Georgieva
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 20
+Lawyer: Bobi Nikolov asks question to Ivan Daskalov
+Lawyer: Bobi Nikolov asks question to Ivan Daskalov
+Lawyer: Bobi Nikolov asks question to Ivan Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Lawyer: Bobi Nikolov asks question to Hrisi Djambazov
+Lawyer: Bobi Nikolov asks question to Hrisi Djambazov
+Lawyer: Bobi Nikolov asks question to Stefan Borisov
+Lawyer: Bobi Nikolov asks question to Stefan Borisov
+Lawyer: Bobi Nikolov asks question to Martin Nikolov
+Lawyer: Bobi Nikolov asks question to Martin Nikolov
+Lawyer: Bobi Nikolov asks question to Nikolay Nikolov
+Lawyer: Bobi Nikolov asks question to Nikolay Nikolov
+Lawyer: Bobi Nikolov asks question to Krasimir Georgieva
+Lawyer: Bobi Nikolov asks question to Krasimir Georgieva
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 21
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Hrisi Djambazov
+Lawyer: Montre Djambazov asks question to Stefan Borisov
+Lawyer: Montre Djambazov asks question to Stefan Borisov
+Lawyer: Montre Djambazov asks question to Stefan Borisov
+Lawyer: Montre Djambazov asks question to Stefan Borisov
+Lawyer: Montre Djambazov asks question to Stefan Borisov
+Lawyer: Montre Djambazov asks question to Martin Nikolov
+Lawyer: Montre Djambazov asks question to Martin Nikolov
+Lawyer: Montre Djambazov asks question to Martin Nikolov
+Lawyer: Montre Djambazov asks question to Martin Nikolov
+Lawyer: Montre Djambazov asks question to Martin Nikolov
+Lawyer: Montre Djambazov asks question to Nikolay Nikolov
+Lawyer: Montre Djambazov asks question to Nikolay Nikolov
+Lawyer: Montre Djambazov asks question to Nikolay Nikolov
+Lawyer: Montre Djambazov asks question to Nikolay Nikolov
+Lawyer: Montre Djambazov asks question to Nikolay Nikolov
+Lawyer: Montre Djambazov asks question to Krasimir Georgieva
+Lawyer: Montre Djambazov asks question to Krasimir Georgieva
+Lawyer: Montre Djambazov asks question to Krasimir Georgieva
+Lawyer: Montre Djambazov asks question to Krasimir Georgieva
+Lawyer: Montre Djambazov asks question to Krasimir Georgieva
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 22
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Hrisi Djambazov
+Lawyer: Montre Stoineva asks question to Stefan Borisov
+Lawyer: Montre Stoineva asks question to Stefan Borisov
+Lawyer: Montre Stoineva asks question to Stefan Borisov
+Lawyer: Montre Stoineva asks question to Stefan Borisov
+Lawyer: Montre Stoineva asks question to Stefan Borisov
+Lawyer: Montre Stoineva asks question to Martin Nikolov
+Lawyer: Montre Stoineva asks question to Martin Nikolov
+Lawyer: Montre Stoineva asks question to Martin Nikolov
+Lawyer: Montre Stoineva asks question to Martin Nikolov
+Lawyer: Montre Stoineva asks question to Martin Nikolov
+Lawyer: Montre Stoineva asks question to Nikolay Nikolov
+Lawyer: Montre Stoineva asks question to Nikolay Nikolov
+Lawyer: Montre Stoineva asks question to Nikolay Nikolov
+Lawyer: Montre Stoineva asks question to Nikolay Nikolov
+Lawyer: Montre Stoineva asks question to Nikolay Nikolov
+Lawyer: Montre Stoineva asks question to Krasimir Georgieva
+Lawyer: Montre Stoineva asks question to Krasimir Georgieva
+Lawyer: Montre Stoineva asks question to Krasimir Georgieva
+Lawyer: Montre Stoineva asks question to Krasimir Georgieva
+Lawyer: Montre Stoineva asks question to Krasimir Georgieva
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 24
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Hrisi Djambazov
+Lawyer: Martin Djambazov asks question to Stefan Borisov
+Lawyer: Martin Djambazov asks question to Stefan Borisov
+Lawyer: Martin Djambazov asks question to Stefan Borisov
+Lawyer: Martin Djambazov asks question to Stefan Borisov
+Lawyer: Martin Djambazov asks question to Stefan Borisov
+Lawyer: Martin Djambazov asks question to Martin Nikolov
+Lawyer: Martin Djambazov asks question to Martin Nikolov
+Lawyer: Martin Djambazov asks question to Martin Nikolov
+Lawyer: Martin Djambazov asks question to Martin Nikolov
+Lawyer: Martin Djambazov asks question to Martin Nikolov
+Lawyer: Martin Djambazov asks question to Nikolay Nikolov
+Lawyer: Martin Djambazov asks question to Nikolay Nikolov
+Lawyer: Martin Djambazov asks question to Nikolay Nikolov
+Lawyer: Martin Djambazov asks question to Nikolay Nikolov
+Lawyer: Martin Djambazov asks question to Nikolay Nikolov
+Lawyer: Martin Djambazov asks question to Krasimir Georgieva
+Lawyer: Martin Djambazov asks question to Krasimir Georgieva
+Lawyer: Martin Djambazov asks question to Krasimir Georgieva
+Lawyer: Martin Djambazov asks question to Krasimir Georgieva
+Lawyer: Martin Djambazov asks question to Krasimir Georgieva
+Simona Georgieva voted with no guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with no guilty !
+Ekaterina Stoineva voted with no guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with no guilty !
+Simona Hristov voted with no guilty !
+Ivan Borisov voted with guilty !
+	 GUILTY !!!
+Kiril Hristov convict 19 years of prison !!!
+
+
+
+	CIVIL CASE
+Jordan Mitrev	Judge
+Age of work : 7
+Number of cases : 5
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 6
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 10
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 6
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 6
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 8
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 7
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 6
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 10
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 7
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 8
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 10
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 17
+Lawyer: Bobi Mitrev asks question to Kiril Djambazov
+Lawyer: Bobi Mitrev asks question to Kiril Djambazov
+Lawyer: Bobi Mitrev asks question to Kiril Djambazov
+Lawyer: Bobi Mitrev asks question to Joro Djambazov
+Lawyer: Bobi Mitrev asks question to Joro Djambazov
+Lawyer: Bobi Mitrev asks question to Ivan Mitrev
+Lawyer: Bobi Mitrev asks question to Ivan Mitrev
+Lawyer: Bobi Mitrev asks question to Simona Djambazov
+Lawyer: Bobi Mitrev asks question to Simona Djambazov
+Lawyer: Bobi Mitrev asks question to Montre Mitrev
+Lawyer: Bobi Mitrev asks question to Montre Mitrev
+Lawyer: Bobi Mitrev asks question to Ekaterina Nikolov
+Lawyer: Bobi Mitrev asks question to Ekaterina Nikolov
+Lawyer: Bobi Mitrev asks question to Ivan Borisov
+Lawyer: Bobi Mitrev asks question to Ivan Borisov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Lawyer: Bobi Mitrev asks question to Joro Daskalov
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 21
+Lawyer: Bobi Nikolov asks question to Kiril Djambazov
+Lawyer: Bobi Nikolov asks question to Kiril Djambazov
+Lawyer: Bobi Nikolov asks question to Kiril Djambazov
+Lawyer: Bobi Nikolov asks question to Joro Djambazov
+Lawyer: Bobi Nikolov asks question to Joro Djambazov
+Lawyer: Bobi Nikolov asks question to Ivan Mitrev
+Lawyer: Bobi Nikolov asks question to Ivan Mitrev
+Lawyer: Bobi Nikolov asks question to Simona Djambazov
+Lawyer: Bobi Nikolov asks question to Simona Djambazov
+Lawyer: Bobi Nikolov asks question to Montre Mitrev
+Lawyer: Bobi Nikolov asks question to Montre Mitrev
+Lawyer: Bobi Nikolov asks question to Ekaterina Nikolov
+Lawyer: Bobi Nikolov asks question to Ekaterina Nikolov
+Lawyer: Bobi Nikolov asks question to Ivan Borisov
+Lawyer: Bobi Nikolov asks question to Ivan Borisov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Lawyer: Bobi Nikolov asks question to Joro Daskalov
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 22
+Lawyer: Montre Djambazov asks question to Joro Djambazov
+Lawyer: Montre Djambazov asks question to Joro Djambazov
+Lawyer: Montre Djambazov asks question to Joro Djambazov
+Lawyer: Montre Djambazov asks question to Joro Djambazov
+Lawyer: Montre Djambazov asks question to Joro Djambazov
+Lawyer: Montre Djambazov asks question to Ivan Mitrev
+Lawyer: Montre Djambazov asks question to Ivan Mitrev
+Lawyer: Montre Djambazov asks question to Ivan Mitrev
+Lawyer: Montre Djambazov asks question to Ivan Mitrev
+Lawyer: Montre Djambazov asks question to Ivan Mitrev
+Lawyer: Montre Djambazov asks question to Simona Djambazov
+Lawyer: Montre Djambazov asks question to Simona Djambazov
+Lawyer: Montre Djambazov asks question to Simona Djambazov
+Lawyer: Montre Djambazov asks question to Simona Djambazov
+Lawyer: Montre Djambazov asks question to Simona Djambazov
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Ekaterina Nikolov
+Lawyer: Montre Djambazov asks question to Ekaterina Nikolov
+Lawyer: Montre Djambazov asks question to Ekaterina Nikolov
+Lawyer: Montre Djambazov asks question to Ekaterina Nikolov
+Lawyer: Montre Djambazov asks question to Ekaterina Nikolov
+Lawyer: Montre Djambazov asks question to Ivan Borisov
+Lawyer: Montre Djambazov asks question to Ivan Borisov
+Lawyer: Montre Djambazov asks question to Ivan Borisov
+Lawyer: Montre Djambazov asks question to Ivan Borisov
+Lawyer: Montre Djambazov asks question to Ivan Borisov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Lawyer: Montre Djambazov asks question to Joro Daskalov
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 23
+Lawyer: Montre Stoineva asks question to Joro Djambazov
+Lawyer: Montre Stoineva asks question to Joro Djambazov
+Lawyer: Montre Stoineva asks question to Joro Djambazov
+Lawyer: Montre Stoineva asks question to Joro Djambazov
+Lawyer: Montre Stoineva asks question to Joro Djambazov
+Lawyer: Montre Stoineva asks question to Ivan Mitrev
+Lawyer: Montre Stoineva asks question to Ivan Mitrev
+Lawyer: Montre Stoineva asks question to Ivan Mitrev
+Lawyer: Montre Stoineva asks question to Ivan Mitrev
+Lawyer: Montre Stoineva asks question to Ivan Mitrev
+Lawyer: Montre Stoineva asks question to Simona Djambazov
+Lawyer: Montre Stoineva asks question to Simona Djambazov
+Lawyer: Montre Stoineva asks question to Simona Djambazov
+Lawyer: Montre Stoineva asks question to Simona Djambazov
+Lawyer: Montre Stoineva asks question to Simona Djambazov
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Ekaterina Nikolov
+Lawyer: Montre Stoineva asks question to Ekaterina Nikolov
+Lawyer: Montre Stoineva asks question to Ekaterina Nikolov
+Lawyer: Montre Stoineva asks question to Ekaterina Nikolov
+Lawyer: Montre Stoineva asks question to Ekaterina Nikolov
+Lawyer: Montre Stoineva asks question to Ivan Borisov
+Lawyer: Montre Stoineva asks question to Ivan Borisov
+Lawyer: Montre Stoineva asks question to Ivan Borisov
+Lawyer: Montre Stoineva asks question to Ivan Borisov
+Lawyer: Montre Stoineva asks question to Ivan Borisov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Lawyer: Montre Stoineva asks question to Joro Daskalov
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 25
+Lawyer: Martin Djambazov asks question to Joro Djambazov
+Lawyer: Martin Djambazov asks question to Joro Djambazov
+Lawyer: Martin Djambazov asks question to Joro Djambazov
+Lawyer: Martin Djambazov asks question to Joro Djambazov
+Lawyer: Martin Djambazov asks question to Joro Djambazov
+Lawyer: Martin Djambazov asks question to Ivan Mitrev
+Lawyer: Martin Djambazov asks question to Ivan Mitrev
+Lawyer: Martin Djambazov asks question to Ivan Mitrev
+Lawyer: Martin Djambazov asks question to Ivan Mitrev
+Lawyer: Martin Djambazov asks question to Ivan Mitrev
+Lawyer: Martin Djambazov asks question to Simona Djambazov
+Lawyer: Martin Djambazov asks question to Simona Djambazov
+Lawyer: Martin Djambazov asks question to Simona Djambazov
+Lawyer: Martin Djambazov asks question to Simona Djambazov
+Lawyer: Martin Djambazov asks question to Simona Djambazov
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Ekaterina Nikolov
+Lawyer: Martin Djambazov asks question to Ekaterina Nikolov
+Lawyer: Martin Djambazov asks question to Ekaterina Nikolov
+Lawyer: Martin Djambazov asks question to Ekaterina Nikolov
+Lawyer: Martin Djambazov asks question to Ekaterina Nikolov
+Lawyer: Martin Djambazov asks question to Ivan Borisov
+Lawyer: Martin Djambazov asks question to Ivan Borisov
+Lawyer: Martin Djambazov asks question to Ivan Borisov
+Lawyer: Martin Djambazov asks question to Ivan Borisov
+Lawyer: Martin Djambazov asks question to Ivan Borisov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Lawyer: Martin Djambazov asks question to Joro Daskalov
+Simona Georgieva voted with no guilty !
+Kiril Georgieva voted with guilty !
+Ivan Djambazov voted with no guilty !
+Ekaterina Stoineva voted with no guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Jordan Mitrev convict 31 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Stoineva	Judge
+Age of work : 11
+Number of cases : 2
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 7
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 11
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 7
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 7
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 9
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 8
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 7
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 11
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 8
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 9
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 11
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 18
+Lawyer: Bobi Mitrev asks question to Roki Nikolov
+Lawyer: Bobi Mitrev asks question to Roki Nikolov
+Lawyer: Bobi Mitrev asks question to Roki Nikolov
+Lawyer: Bobi Mitrev asks question to Montre Stoineva
+Lawyer: Bobi Mitrev asks question to Montre Stoineva
+Lawyer: Bobi Mitrev asks question to Montre Mitrev
+Lawyer: Bobi Mitrev asks question to Montre Mitrev
+Lawyer: Bobi Mitrev asks question to Rikardo Borisov
+Lawyer: Bobi Mitrev asks question to Rikardo Borisov
+Lawyer: Bobi Mitrev asks question to Montre Georgieva
+Lawyer: Bobi Mitrev asks question to Montre Georgieva
+Lawyer: Bobi Mitrev asks question to Pencho Hristov
+Lawyer: Bobi Mitrev asks question to Pencho Hristov
+Lawyer: Bobi Mitrev asks question to Simona Georgieva
+Lawyer: Bobi Mitrev asks question to Simona Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Georgieva
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 22
+Lawyer: Bobi Nikolov asks question to Roki Nikolov
+Lawyer: Bobi Nikolov asks question to Roki Nikolov
+Lawyer: Bobi Nikolov asks question to Roki Nikolov
+Lawyer: Bobi Nikolov asks question to Montre Stoineva
+Lawyer: Bobi Nikolov asks question to Montre Stoineva
+Lawyer: Bobi Nikolov asks question to Montre Mitrev
+Lawyer: Bobi Nikolov asks question to Montre Mitrev
+Lawyer: Bobi Nikolov asks question to Rikardo Borisov
+Lawyer: Bobi Nikolov asks question to Rikardo Borisov
+Lawyer: Bobi Nikolov asks question to Montre Georgieva
+Lawyer: Bobi Nikolov asks question to Montre Georgieva
+Lawyer: Bobi Nikolov asks question to Pencho Hristov
+Lawyer: Bobi Nikolov asks question to Pencho Hristov
+Lawyer: Bobi Nikolov asks question to Simona Georgieva
+Lawyer: Bobi Nikolov asks question to Simona Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Georgieva
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 23
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Montre Mitrev
+Lawyer: Montre Djambazov asks question to Rikardo Borisov
+Lawyer: Montre Djambazov asks question to Rikardo Borisov
+Lawyer: Montre Djambazov asks question to Rikardo Borisov
+Lawyer: Montre Djambazov asks question to Rikardo Borisov
+Lawyer: Montre Djambazov asks question to Rikardo Borisov
+Lawyer: Montre Djambazov asks question to Montre Georgieva
+Lawyer: Montre Djambazov asks question to Montre Georgieva
+Lawyer: Montre Djambazov asks question to Montre Georgieva
+Lawyer: Montre Djambazov asks question to Montre Georgieva
+Lawyer: Montre Djambazov asks question to Montre Georgieva
+Lawyer: Montre Djambazov asks question to Pencho Hristov
+Lawyer: Montre Djambazov asks question to Pencho Hristov
+Lawyer: Montre Djambazov asks question to Pencho Hristov
+Lawyer: Montre Djambazov asks question to Pencho Hristov
+Lawyer: Montre Djambazov asks question to Pencho Hristov
+Lawyer: Montre Djambazov asks question to Simona Georgieva
+Lawyer: Montre Djambazov asks question to Simona Georgieva
+Lawyer: Montre Djambazov asks question to Simona Georgieva
+Lawyer: Montre Djambazov asks question to Simona Georgieva
+Lawyer: Montre Djambazov asks question to Simona Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Lawyer: Montre Djambazov asks question to Ivan Georgieva
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 24
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Montre Mitrev
+Lawyer: Montre Stoineva asks question to Rikardo Borisov
+Lawyer: Montre Stoineva asks question to Rikardo Borisov
+Lawyer: Montre Stoineva asks question to Rikardo Borisov
+Lawyer: Montre Stoineva asks question to Rikardo Borisov
+Lawyer: Montre Stoineva asks question to Rikardo Borisov
+Lawyer: Montre Stoineva asks question to Montre Georgieva
+Lawyer: Montre Stoineva asks question to Montre Georgieva
+Lawyer: Montre Stoineva asks question to Montre Georgieva
+Lawyer: Montre Stoineva asks question to Montre Georgieva
+Lawyer: Montre Stoineva asks question to Montre Georgieva
+Lawyer: Montre Stoineva asks question to Pencho Hristov
+Lawyer: Montre Stoineva asks question to Pencho Hristov
+Lawyer: Montre Stoineva asks question to Pencho Hristov
+Lawyer: Montre Stoineva asks question to Pencho Hristov
+Lawyer: Montre Stoineva asks question to Pencho Hristov
+Lawyer: Montre Stoineva asks question to Simona Georgieva
+Lawyer: Montre Stoineva asks question to Simona Georgieva
+Lawyer: Montre Stoineva asks question to Simona Georgieva
+Lawyer: Montre Stoineva asks question to Simona Georgieva
+Lawyer: Montre Stoineva asks question to Simona Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Lawyer: Montre Stoineva asks question to Ivan Georgieva
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 26
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Montre Mitrev
+Lawyer: Martin Djambazov asks question to Rikardo Borisov
+Lawyer: Martin Djambazov asks question to Rikardo Borisov
+Lawyer: Martin Djambazov asks question to Rikardo Borisov
+Lawyer: Martin Djambazov asks question to Rikardo Borisov
+Lawyer: Martin Djambazov asks question to Rikardo Borisov
+Lawyer: Martin Djambazov asks question to Montre Georgieva
+Lawyer: Martin Djambazov asks question to Montre Georgieva
+Lawyer: Martin Djambazov asks question to Montre Georgieva
+Lawyer: Martin Djambazov asks question to Montre Georgieva
+Lawyer: Martin Djambazov asks question to Montre Georgieva
+Lawyer: Martin Djambazov asks question to Pencho Hristov
+Lawyer: Martin Djambazov asks question to Pencho Hristov
+Lawyer: Martin Djambazov asks question to Pencho Hristov
+Lawyer: Martin Djambazov asks question to Pencho Hristov
+Lawyer: Martin Djambazov asks question to Pencho Hristov
+Lawyer: Martin Djambazov asks question to Simona Georgieva
+Lawyer: Martin Djambazov asks question to Simona Georgieva
+Lawyer: Martin Djambazov asks question to Simona Georgieva
+Lawyer: Martin Djambazov asks question to Simona Georgieva
+Lawyer: Martin Djambazov asks question to Simona Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Lawyer: Martin Djambazov asks question to Ivan Georgieva
+Simona Georgieva voted with no guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with guilty !
+Ekaterina Stoineva voted with guilty !
+Kiril Djambazov voted with guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with guilty !
+Simona Hristov voted with guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Kiril Stoineva convict 5 years of prison !!!
+
+
+
+	CIVIL CASE
+Kiril Hristov	Judge
+Age of work : 7
+Number of cases : 5
+Simona Georgieva	Juror
+Age of work : 4
+Number of cases : 8
+Kiril Georgieva	Juror
+Age of work : 0
+Number of cases : 12
+Ivan Djambazov	Juror
+Age of work : 1
+Number of cases : 8
+Ekaterina Stoineva	Juror
+Age of work : 0
+Number of cases : 8
+Kiril Djambazov	Juror
+Age of work : 2
+Number of cases : 10
+Liubka Daskalov	Juror
+Age of work : 0
+Number of cases : 9
+Krasimir Georgieva	Juror
+Age of work : 2
+Number of cases : 8
+Nikolay Daskalov	Juror
+Age of work : 3
+Number of cases : 12
+Martin Mitrev	Juror
+Age of work : 0
+Number of cases : 9
+Simona Hristov	Juror
+Age of work : 0
+Number of cases : 10
+Ivan Borisov	Juror
+Age of work : 2
+Number of cases : 12
+Bobi Mitrev	Lawyer
+Age of work : 7
+Number of cases : 19
+Lawyer: Bobi Mitrev asks question to Mitko Georgieva
+Lawyer: Bobi Mitrev asks question to Mitko Georgieva
+Lawyer: Bobi Mitrev asks question to Mitko Georgieva
+Lawyer: Bobi Mitrev asks question to Ivan Daskalov
+Lawyer: Bobi Mitrev asks question to Ivan Daskalov
+Lawyer: Bobi Mitrev asks question to Bobi Nikolov
+Lawyer: Bobi Mitrev asks question to Bobi Nikolov
+Lawyer: Bobi Mitrev asks question to Roki Hristov
+Lawyer: Bobi Mitrev asks question to Roki Hristov
+Lawyer: Bobi Mitrev asks question to Jordan Borisov
+Lawyer: Bobi Mitrev asks question to Jordan Borisov
+Lawyer: Bobi Mitrev asks question to Montre Stoineva
+Lawyer: Bobi Mitrev asks question to Montre Stoineva
+Lawyer: Bobi Mitrev asks question to Nikolay Borisov
+Lawyer: Bobi Mitrev asks question to Nikolay Borisov
+Lawyer: Bobi Mitrev asks question to Pencho Daskalov
+Lawyer: Bobi Mitrev asks question to Pencho Daskalov
+Bobi Nikolov	Lawyer
+Age of work : 8
+Number of cases : 23
+Lawyer: Bobi Nikolov asks question to Mitko Georgieva
+Lawyer: Bobi Nikolov asks question to Mitko Georgieva
+Lawyer: Bobi Nikolov asks question to Mitko Georgieva
+Lawyer: Bobi Nikolov asks question to Ivan Daskalov
+Lawyer: Bobi Nikolov asks question to Ivan Daskalov
+Lawyer: Bobi Nikolov asks question to Bobi Nikolov
+Lawyer: Bobi Nikolov asks question to Bobi Nikolov
+Lawyer: Bobi Nikolov asks question to Roki Hristov
+Lawyer: Bobi Nikolov asks question to Roki Hristov
+Lawyer: Bobi Nikolov asks question to Jordan Borisov
+Lawyer: Bobi Nikolov asks question to Jordan Borisov
+Lawyer: Bobi Nikolov asks question to Montre Stoineva
+Lawyer: Bobi Nikolov asks question to Montre Stoineva
+Lawyer: Bobi Nikolov asks question to Nikolay Borisov
+Lawyer: Bobi Nikolov asks question to Nikolay Borisov
+Lawyer: Bobi Nikolov asks question to Pencho Daskalov
+Lawyer: Bobi Nikolov asks question to Pencho Daskalov
+Montre Djambazov	Lawyer
+Age of work : 11
+Number of cases : 24
+Lawyer: Montre Djambazov asks question to Ivan Daskalov
+Lawyer: Montre Djambazov asks question to Ivan Daskalov
+Lawyer: Montre Djambazov asks question to Ivan Daskalov
+Lawyer: Montre Djambazov asks question to Ivan Daskalov
+Lawyer: Montre Djambazov asks question to Ivan Daskalov
+Lawyer: Montre Djambazov asks question to Bobi Nikolov
+Lawyer: Montre Djambazov asks question to Bobi Nikolov
+Lawyer: Montre Djambazov asks question to Bobi Nikolov
+Lawyer: Montre Djambazov asks question to Bobi Nikolov
+Lawyer: Montre Djambazov asks question to Bobi Nikolov
+Lawyer: Montre Djambazov asks question to Roki Hristov
+Lawyer: Montre Djambazov asks question to Roki Hristov
+Lawyer: Montre Djambazov asks question to Roki Hristov
+Lawyer: Montre Djambazov asks question to Roki Hristov
+Lawyer: Montre Djambazov asks question to Roki Hristov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Jordan Borisov
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Montre Stoineva
+Lawyer: Montre Djambazov asks question to Nikolay Borisov
+Lawyer: Montre Djambazov asks question to Nikolay Borisov
+Lawyer: Montre Djambazov asks question to Nikolay Borisov
+Lawyer: Montre Djambazov asks question to Nikolay Borisov
+Lawyer: Montre Djambazov asks question to Nikolay Borisov
+Lawyer: Montre Djambazov asks question to Pencho Daskalov
+Lawyer: Montre Djambazov asks question to Pencho Daskalov
+Lawyer: Montre Djambazov asks question to Pencho Daskalov
+Lawyer: Montre Djambazov asks question to Pencho Daskalov
+Lawyer: Montre Djambazov asks question to Pencho Daskalov
+Montre Stoineva	Lawyer
+Age of work : 7
+Number of cases : 25
+Lawyer: Montre Stoineva asks question to Ivan Daskalov
+Lawyer: Montre Stoineva asks question to Ivan Daskalov
+Lawyer: Montre Stoineva asks question to Ivan Daskalov
+Lawyer: Montre Stoineva asks question to Ivan Daskalov
+Lawyer: Montre Stoineva asks question to Ivan Daskalov
+Lawyer: Montre Stoineva asks question to Bobi Nikolov
+Lawyer: Montre Stoineva asks question to Bobi Nikolov
+Lawyer: Montre Stoineva asks question to Bobi Nikolov
+Lawyer: Montre Stoineva asks question to Bobi Nikolov
+Lawyer: Montre Stoineva asks question to Bobi Nikolov
+Lawyer: Montre Stoineva asks question to Roki Hristov
+Lawyer: Montre Stoineva asks question to Roki Hristov
+Lawyer: Montre Stoineva asks question to Roki Hristov
+Lawyer: Montre Stoineva asks question to Roki Hristov
+Lawyer: Montre Stoineva asks question to Roki Hristov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Jordan Borisov
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Montre Stoineva
+Lawyer: Montre Stoineva asks question to Nikolay Borisov
+Lawyer: Montre Stoineva asks question to Nikolay Borisov
+Lawyer: Montre Stoineva asks question to Nikolay Borisov
+Lawyer: Montre Stoineva asks question to Nikolay Borisov
+Lawyer: Montre Stoineva asks question to Nikolay Borisov
+Lawyer: Montre Stoineva asks question to Pencho Daskalov
+Lawyer: Montre Stoineva asks question to Pencho Daskalov
+Lawyer: Montre Stoineva asks question to Pencho Daskalov
+Lawyer: Montre Stoineva asks question to Pencho Daskalov
+Lawyer: Montre Stoineva asks question to Pencho Daskalov
+Martin Djambazov	Lawyer
+Age of work : 1
+Number of cases : 27
+Lawyer: Martin Djambazov asks question to Ivan Daskalov
+Lawyer: Martin Djambazov asks question to Ivan Daskalov
+Lawyer: Martin Djambazov asks question to Ivan Daskalov
+Lawyer: Martin Djambazov asks question to Ivan Daskalov
+Lawyer: Martin Djambazov asks question to Ivan Daskalov
+Lawyer: Martin Djambazov asks question to Bobi Nikolov
+Lawyer: Martin Djambazov asks question to Bobi Nikolov
+Lawyer: Martin Djambazov asks question to Bobi Nikolov
+Lawyer: Martin Djambazov asks question to Bobi Nikolov
+Lawyer: Martin Djambazov asks question to Bobi Nikolov
+Lawyer: Martin Djambazov asks question to Roki Hristov
+Lawyer: Martin Djambazov asks question to Roki Hristov
+Lawyer: Martin Djambazov asks question to Roki Hristov
+Lawyer: Martin Djambazov asks question to Roki Hristov
+Lawyer: Martin Djambazov asks question to Roki Hristov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Jordan Borisov
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Montre Stoineva
+Lawyer: Martin Djambazov asks question to Nikolay Borisov
+Lawyer: Martin Djambazov asks question to Nikolay Borisov
+Lawyer: Martin Djambazov asks question to Nikolay Borisov
+Lawyer: Martin Djambazov asks question to Nikolay Borisov
+Lawyer: Martin Djambazov asks question to Nikolay Borisov
+Lawyer: Martin Djambazov asks question to Pencho Daskalov
+Lawyer: Martin Djambazov asks question to Pencho Daskalov
+Lawyer: Martin Djambazov asks question to Pencho Daskalov
+Lawyer: Martin Djambazov asks question to Pencho Daskalov
+Lawyer: Martin Djambazov asks question to Pencho Daskalov
+Simona Georgieva voted with no guilty !
+Kiril Georgieva voted with no guilty !
+Ivan Djambazov voted with no guilty !
+Ekaterina Stoineva voted with guilty !
+Kiril Djambazov voted with no guilty !
+Liubka Daskalov voted with guilty !
+Krasimir Georgieva voted with no guilty !
+Nikolay Daskalov voted with no guilty !
+Martin Mitrev voted with no guilty !
+Simona Hristov voted with guilty !
+Ivan Borisov voted with no guilty !
+	 GUILTY !!!
+Kiril Hristov convict 18 years of prison !!!
+
+
+Bobi Mitrev - 20
+Bobi Nikolov - 24
+Ekaterina Stoineva - 9
+Ivan Borisov - 13
+Ivan Djambazov - 9
+Jordan Djambazov - 4
+Jordan Mitrev - 6
+Kiril Djambazov - 11
+Kiril Georgieva - 13
+Kiril Hristov - 6
+Kiril Stoineva - 3
+Krasimir Georgieva - 9
+Liubka Daskalov - 10
+Martin Djambazov - 28
+Martin Hristov - 12
+Martin Mitrev - 10
+Montre Borisov - 18
+Montre Djambazov - 25
+Montre Stoineva - 26
+Nikolay Daskalov - 13
+Nikolay Georgieva - 0
+Pencho Georgieva - 1
+Pencho Mitrev - 1
+Simona Georgieva - 9
+Simona Hristov - 11
