@@ -18,9 +18,15 @@ public class DemoRegionalCourt {
 	public static final String[] FAMILIES  = {"Hristov","Daskalov","Stoineva","Georgieva",
 			"Djambazov","Borisov","Mitrev","Nikolov"};
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args){
 		
-		DemoRegionalCourt.fileWriter = new PrintStream(DemoRegionalCourt.file);
+		
+		
+		try {
+			DemoRegionalCourt.fileWriter = new PrintStream(DemoRegionalCourt.file);
+		} catch (FileNotFoundException e) {
+			e.getMessage();
+		}
 		
 		Random r = new Random();
 		
@@ -75,7 +81,7 @@ public class DemoRegionalCourt {
 			
 			
 			
-		
+		DemoRegionalCourt.fileWriter.close();
 		
 	}
 		
