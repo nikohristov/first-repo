@@ -1,0 +1,177 @@
+day red 2016-03-28
+day red 2016-03-28
+day red 2016-03-28
+day red 2016-03-28
+day red 2016-03-28
+day red 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day blue 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+day yellow 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth red 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth blue 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+mounth yellow 2016-03-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year red 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year blue 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+year yellow 2017-02-28
+mounth red 2016-03-28 - sold.
+mounth red 2016-03-28 - sold.
+the vingate was set of: 5 seconds.
+the vingate was set of: 5 seconds.
+day red 2016-03-28 - sold.
+the vingate was set of: 5 seconds.
+year blue 2017-02-28 - sold.
+the vingate was set of: 10 seconds.
+year blue 2017-02-28 - sold.
+the vingate was set of: 10 seconds.
+day red 2016-03-28 - sold.
+the vingate was set of: 5 seconds.
+day red 2016-03-28 - sold.
+the vingate was set of: 5 seconds.
+mounth blue 2016-03-28 - sold.
+the vingate was set of: 10 seconds.
+year blue 2017-02-28 - sold.
+the vingate was set of: 10 seconds.
+day yellow 2016-03-28 - sold.
+the vingate was set of: 20 seconds.
+day yellow 2016-03-28 - sold.
+the vingate was set of: 20 seconds.
+day yellow 2016-03-28 - sold.
+the vingate was set of: 20 seconds.
+List with all mobiles need rebuy vignette for driver Nikolay
+A4 2012 2016-03-28
+A5 2012 2016-03-28
+A6 2012 2016-03-28
+M 2005 2016-03-28
+M 2005 2017-02-28
+A4 2012 2016-03-28
+iveco 2013 2016-03-28
+List with all mobiles need rebuy vignette for driver Joro
+A3 2012 2016-03-28
+A7 2012 2016-03-28
+M 2005 2017-02-28
+M 2005 2017-02-28
+iveco 2013 2016-03-28
+iveco 2013 2016-03-28
